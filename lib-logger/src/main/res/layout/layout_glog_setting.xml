@@ -105,7 +105,6 @@
 
         <Spinner
             android:id="@+id/sp_glog_default_level"
-            style="@style/Widget.AppCompat.Spinner.Underlined"
             android:layout_width="80dp"
             android:layout_height="50dp"
             tools:ignore="MissingConstraints"
@@ -140,7 +139,6 @@
 
         <Spinner
             android:id="@+id/sp_glog_json_level"
-            style="@style/Widget.AppCompat.Spinner.Underlined"
             android:layout_width="80dp"
             android:layout_height="50dp"
             tools:ignore="MissingConstraints"
