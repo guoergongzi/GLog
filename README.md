@@ -1,4 +1,4 @@
-简书地址：https://www.jianshu.com/p/2752d2bbd01e
+Notion文档地址:https://weak-gasosaurus-ef5.notion.site/GLog-d6aa431aa3bf4d77bb905bcc7894fe7a
 
 ##### 1、初始化框架
 
